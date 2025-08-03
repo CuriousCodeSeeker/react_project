@@ -28,5 +28,47 @@
     "title": "Healthy Habits for Life",
     "description": "Transform your lifestyle with simple, science-backed habits that promote physical and mental well-being. Start your journey to a healthier you today!Discover easy-to-follow routines for nutrition, exercise, and mindfulness.The book features expert advice and motivational stories from real people.Track your progress with practical worksheets and checklists.Achieve lasting change and unlock your full potential.Let this book be your companion on the path to a happier, healthier, and more balanced life.",
     "stars": 4.8
+  },
+  {
+    "id": 6,
+    "title": "Journey to the Unknown",
+    "description": "An adventurous tale of self-discovery and courage as a young explorer ventures into uncharted territories, facing challenges and making new friends.Experience breathtaking landscapes and heart-pounding moments.The protagonist learns valuable lessons about trust, resilience, and hope.Each chapter brings new surprises and emotional growth.A must-read for those who crave adventure and inspiration.This book will ignite your wanderlust and encourage you to embrace the unknown with confidence and curiosity.",
+    "stars": 4.0
+  },
+  {
+    "id": 7,
+    "title": "The Art of Mindful Living",
+    "description": "A practical guide to living in the present moment and finding peace in everyday life. Discover techniques to reduce stress and increase happiness.Learn how to cultivate mindfulness through meditation and daily practices.This book offers step-by-step exercises and real-life examples to help you stay grounded.Explore the science behind mindfulness and its impact on mental health.Perfect for anyone seeking a calmer, more focused, and fulfilling life.With inspiring stories and expert advice, this book will transform your approach to daily living and help you build lasting habits of awareness.",
+    "stars": 4.5
+  },
+  {
+    "id": 8,
+    "title": "Journey to the Unknown",
+    "description": "An adventurous tale of self-discovery and courage as a young explorer ventures into uncharted territories, facing challenges and making new friends.Experience breathtaking landscapes and heart-pounding moments.The protagonist learns valuable lessons about trust, resilience, and hope.Each chapter brings new surprises and emotional growth.A must-read for those who crave adventure and inspiration.This book will ignite your wanderlust and encourage you to embrace the unknown with confidence and curiosity.",
+    "stars": 4.0
+  },
+  {
+    "id": 9,
+    "title": "Code Like a Pro",
+    "description": "Unlock the secrets of efficient programming with tips, tricks, and best practices from industry experts. Perfect for beginners and seasoned coders alike.Dive into real-world coding scenarios and problem-solving strategies.Learn how to write clean, maintainable, and scalable code.Includes interviews with top developers and hands-on exercises.Elevate your coding skills and boost your career prospects.This comprehensive guide will empower you to tackle complex projects and stay ahead in the ever-evolving tech landscape.",
+    "stars": 5.0
+  },
+  {
+    "id": 10,
+    "title": "The Lost City of Zora",
+    "description": "A gripping mystery novel set in an ancient city filled with secrets, puzzles, and unexpected twists. Can you solve the mystery before the protagonist does?Follow the journey through hidden tunnels and forgotten temples.Meet a cast of intriguing characters, each with their own motives.The story weaves history, suspense, and adventure seamlessly.Prepare for a page-turner that will keep you guessing until the end.Every clue and revelation will draw you deeper into the enigmatic world of Zora, making this a must-read for mystery lovers.",
+    "stars": 4.2
+  },
+  {
+    "id": 11,
+    "title": "Healthy Habits for Life",
+    "description": "Transform your lifestyle with simple, science-backed habits that promote physical and mental well-being. Start your journey to a healthier you today!Discover easy-to-follow routines for nutrition, exercise, and mindfulness.The book features expert advice and motivational stories from real people.Track your progress with practical worksheets and checklists.Achieve lasting change and unlock your full potential.Let this book be your companion on the path to a happier, healthier, and more balanced life.",
+    "stars": 4.8
+  },
+  {
+    "id": 12,
+    "title": "Journey to the Unknown",
+    "description": "An adventurous tale of self-discovery and courage as a young explorer ventures into uncharted territories, facing challenges and making new friends.Experience breathtaking landscapes and heart-pounding moments.The protagonist learns valuable lessons about trust, resilience, and hope.Each chapter brings new surprises and emotional growth.A must-read for those who crave adventure and inspiration.This book will ignite your wanderlust and encourage you to embrace the unknown with confidence and curiosity.",
+    "stars": 4.0
   }
 ]

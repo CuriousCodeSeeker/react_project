@@ -1,5 +1,6 @@
 const Mainbody = () => {
     return (
+        <>
         <section className="bg-gray-100 min-h-[60vh] flex items-center justify-center border-t border-blue-100">
             <div className="text-center px-4 max-w-2xl">
                 <h1 className="text-4xl md:text-6xl font-extrabold text-blue-950 mb-4 drop-shadow-lg">
@@ -13,6 +14,7 @@ const Mainbody = () => {
                 </a>
             </div>
         </section>
-    );
+        </>
+    )
 }
 export default Mainbody;

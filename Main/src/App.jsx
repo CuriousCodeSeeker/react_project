@@ -5,6 +5,8 @@ import './index.css'
 import Navbar from './Components/Navbar'
 import Mainbody from './Components/Mainbody'
 import Cards from './Components/Cards'
+import ViewAllBooks from './Components/ViewAllBooks'  
+import Footer from './Components/Footer'
 
 
 function App() {
@@ -15,6 +17,8 @@ function App() {
       <Navbar />
       <Mainbody />
       <Cards />
+      <ViewAllBooks />
+      <Footer />
     </>
   )
 }
