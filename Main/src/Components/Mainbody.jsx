@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom'
+
 const Mainbody = () => {
     return (
         <>
@@ -9,9 +11,9 @@ const Mainbody = () => {
                 <p className="text-lg md:text-2xl text-blue-900 mb-8 font-medium">
                     Discover inspiring stories, insightful articles, and a vibrant community. Dive in and let your curiosity thrive!
                 </p>
-                <a href="#" className="inline-block bg-yellow-300 text-blue-950 font-bold px-8 py-3 rounded-full shadow-lg hover:bg-yellow-400 transition-colors text-lg">
+                <Link to="/Services" className="inline-block bg-yellow-300 text-blue-950 font-bold px-8 py-3 rounded-full shadow-lg hover:bg-yellow-400 transition-colors text-lg">
                     Start Reading
-                </a>
+                </Link>
             </div>
         </section>
         </>

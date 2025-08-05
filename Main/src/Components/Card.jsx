@@ -14,9 +14,8 @@ const Card = ({ title, description, stars, link }) => {
                     ))}
                     <span className="ml-1 text-sm text-gray-500">({stars})</span>
                 </div>
-                {link && (
-                    <a href={link} className="text-blue-600 hover:underline font-medium">Read more</a>
-                )}
+                
+                <a href={link} className="text-blue-600 hover:underline font-medium">Read more</a>
             </div>
         </div>
     );

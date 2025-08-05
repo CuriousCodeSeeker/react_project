@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import { FaBlog } from 'react-icons/fa'
 const Navbar = () => {
     return (
@@ -8,10 +9,10 @@ const Navbar = () => {
                     <h1 className="tracking-wide">BlogWithMe</h1>
                 </div>
                 <ul className="flex space-x-8">
-                    <li><a href="/" className="hover:text-yellow-300 transition-colors font-medium">Home</a></li>
-                    <li><a href="/About" className="hover:text-yellow-300 transition-colors font-medium">About</a></li>
-                    <li><a href="/Services" className="hover:text-yellow-300 transition-colors font-medium">Services</a></li>
-                    <li><a href="/Contact" className="hover:text-yellow-300 transition-colors font-medium">Contact</a></li>
+                    <li><Link to="/" className="hover:text-yellow-300 transition-colors font-medium">Home</Link></li>
+                    <li><Link to="/About" className="hover:text-yellow-300 transition-colors font-medium">About</Link></li>
+                    <li><Link to="/Services" className="hover:text-yellow-300 transition-colors font-medium">Services</Link></li>
+                    <li><Link to="/Contact" className="hover:text-yellow-300 transition-colors font-medium">Contact</Link></li>
                 </ul>
             </div>
         </nav>
